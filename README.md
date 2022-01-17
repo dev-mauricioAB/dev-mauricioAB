@@ -7,8 +7,5 @@ Skills: ANGULAR / REACT / REACT-NATIVE / NODE-JS / JS / HTML / CSS
 - 🌱 I’m currently learning SOLID / C# / Clean Code / Angular / TypeScript / JavaScript / AWS Tools / deploy 
 
 
-- Repository in update...
-![octocat](https://user-images.githubusercontent.com/62599099/149848069-e68c4087-7537-498f-a1d7-325a79048bdd.gif)
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' styles="color:#ccc">](https://www.linkedin.com/in/maurício-alexandre-barroso-7579a19a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40' styles="color:#ccc">](https://dev-mauricioalexandre.medium.com/)  
 
