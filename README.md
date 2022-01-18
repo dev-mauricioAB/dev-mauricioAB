@@ -8,7 +8,7 @@ Skills: ANGULAR / REACT / REACT-NATIVE / NODE-JS / JS / HTML / CSS
 
 
 ###Working in update repository
-<img src="/2.png" width="400" height="400">
+<img src="2.png" width="400" height="400">
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' styles="color:#ccc">](https://www.linkedin.com/in/maurício-alexandre-barroso-7579a19a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40' styles="color:#ccc">](https://dev-mauricioalexandre.medium.com/)  
