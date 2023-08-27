@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Maurício
 ####  Here are some study and work projects
 
-Skills: ANGULAR / REACT / REACT-NATIVE / NODE-JS / JS / HTML / CSS
+Skills: ANGULAR / MODULE FEDERATION / MICRO FRONTEND / NODE-JS / JS / HTML / CSS / DOCKER / KUBERNETS/ REACT / REACT-NATIVE
 
 - 🔭 I’m currently working on **[Radix Eng ](https://www.radixeng.com.br/)**
 - 🌱 I’m currently learning Module Federation / Jest Test / Micro Frontends / Angular Workspace / TypeScript / Devops / CI/CD
